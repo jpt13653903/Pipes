@@ -1,6 +1,6 @@
 # Pipes
 
-[LT-Spice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) Sub-circuit for Pipe Networks
+[LT-Spice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) sub-circuit for pipe networks
 
 --------------------------------------------------------------------------------
 
