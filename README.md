@@ -8,14 +8,15 @@
 
 The model uses the [Hazen-Williams equation](https://en.wikipedia.org/wiki/Hazen%E2%80%93Williams_equation) to model the flow through a length of pipe, given the head-loss.  Head-loss is represented by a drop in voltage, and flow is represented by the current through the model.
 
-The natural units of the model are:
+The model properties are:
 
-Property  | Unit
---------  | ----
-Head loss | metres of water
-Flow      | litres per second
-Length    | metres
-Diameter  | millimetres
+Property  | Unit              | Default | Parameter
+--------  | ----              | ------- | ---------
+Head loss | metres of water   | &mdash; | &mdash;
+Flow      | litres per second | &mdash; | &mdash;
+Length    | metres            | 100 m   | length
+Diameter  | millimetres       | 110 mm  | dia
+Roughness | &mdash;           | 140     | CH
 
 --------------------------------------------------------------------------------
 
